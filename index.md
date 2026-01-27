@@ -1,7 +1,15 @@
 ---
-title: Tutorial: Working with the IIIF Gallery Builder
-layout: home
+layout: article
+title: Working with the IIIF Gallery Builder
+url: /gallery-builder-tutorial/
+show_title: false
+aside:
+  toc: true
+sidebar:
+  nav: webmap-workshop
 ---
+
+# Overview
 
 This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
 
