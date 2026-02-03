@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Gallery
+title: Get Started
 nav_order: 3
 ---
 
@@ -30,18 +30,17 @@ nav_order: 3
 
 - Add 2 or more additional items following this same workflow. 
 
-## Save your work
+## Rearrange your collection
+- You can rearrange cards as needed by dragging and dropping. (Click within the box but outside of the thumbnail image to drag a card.)
+- If you need to remove a card, click the x in the upper right corner.
+
+Change the view
+- Use the control links at upper right to hide and show the input panel and hide and show the viewing pane. 
+- Change the size of the viewing pane by dragging the vertical grey bar to your desired location.
+
+## Save your work on your computer
 - Choose a title for your gallery and type it in the field that says "Enter gallery name". Note that if you don't choose a name the tool will autogenerate one with today's date
 - Click the Save Gallery button
 - Navigate to your desktop and find the file you just saved. It will have the title you chose with the suffix "-gallery"
 - Right click on the file and choose "Open Link with" and select your blower of choice (Chrome, Safari, Firefox, etc.)
-- Your gallery should open in a new tab 
-# Overview
-
-This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
-
-## What's an Image Gallery?
-
-
-## What is IIIF?
-
+- Your gallery should open in a new tab
