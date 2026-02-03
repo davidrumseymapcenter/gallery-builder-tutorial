@@ -6,8 +6,8 @@ nav_order: 3
 
 # Create a Gallery
 
-## Open the Gallery Builder
-- https://davidrumseymapcenter.github.io/set-builder/
+## Open the Gallery Builder tool
+- [https://davidrumseymapcenter.github.io/set-builder/](https://davidrumseymapcenter.github.io/set-builder/)
 
 ## Find a IIIF Manifest 
 - Go to Searchworks.stanford.edu and find a record for a map that includes an image. 
@@ -32,15 +32,21 @@ nav_order: 3
 
 ## Rearrange your collection
 - You can rearrange cards as needed by dragging and dropping. (Click within the box but outside of the thumbnail image to drag a card.)
+
 - If you need to remove a card, click the x in the upper right corner.
 
-Change the view
+## Change the view
 - Use the control links at upper right to hide and show the input panel and hide and show the viewing pane. 
+
 - Change the size of the viewing pane by dragging the vertical grey bar to your desired location.
 
 ## Save your work on your computer
 - Choose a title for your gallery and type it in the field that says "Enter gallery name". Note that if you don't choose a name the tool will autogenerate one with today's date
+
 - Click the Save Gallery button
+
 - Navigate to your desktop and find the file you just saved. It will have the title you chose with the suffix "-gallery"
+
 - Right click on the file and choose "Open Link with" and select your blower of choice (Chrome, Safari, Firefox, etc.)
+
 - Your gallery should open in a new tab

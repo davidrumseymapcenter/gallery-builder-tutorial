@@ -8,14 +8,11 @@ nav_order: 4
 
 ## Finding Manifests in Other Collections
 
-IIIF is used by dozens of institutions around the world. 
-
-*Note that the gallery builder tool does not yet perfectly ingest manifests from all institutions. Please email kllarsen@stanford.edu with requests to add compatibility for a particular manifest format, or add an issue to our repository: https://github.com/davidrumseymapcenter/set-builder*
-
+IIIF is used by dozens of institutions around the world. In this section of the workshop we will add links from a couple of popular sites and explore the list of other participating entities. 
 
 ## Add a manifest from DavidRumsey.com
 
-Next we will add items from DavidRumsey.com
+DavidRumsey.com is an extraordinary source for images of historical maps. At the time of this writing, there are over 145,000 images on the site. It has purpose-built tools for finding maps within the collection, including a geospatial serach function and the ability to search for text wihin the map images. 
 
 - Open an item record on DavidRumsey.com
 
@@ -40,8 +37,8 @@ Next we will add items from DavidRumsey.com
 
 ## Add a manifest from a repository of your choice
 
-- The IIIF Consortium maintains a list of participating institutions with links to screenshots that illustrate how to locate those manifests: https://iiif.io/guides/finding_resources/. 
+- The IIIF Consortium maintains a list of participating institutions with links to screenshots that illustrate how to locate those manifests: <https://iiif.io/guides/finding_resources/>. 
 
-- Choose a repository from the list to investigate and try to add an image
+- Choose a repository from the list to investigate, learn to locate a manifest, and try to add an image to your gallery.
 
--
+*Note that the Gallery Builder tool does not yet perfectly ingest manifests from all institutions. Please email kllarsen@stanford.edu with requests to add compatibility for a particular manifest format, or add an issue to our repository: <https://github.com/davidrumseymapcenter/set-builder>*

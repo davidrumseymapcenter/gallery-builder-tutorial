@@ -4,26 +4,15 @@ title: Tutorial Home
 nav_order: 1
 ---
 
-# Overview
+# About
 
 This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
 
-## What's an Image Gallery?
-
-
-## What is IIIF?
-
-
 ## Workshop objectives
 
+In this workshop participants will create simple, no-code digital galleries of images of maps and other cultural heritage objects for use in research and teaching. Drawing from disparate sources including Stanford's Searchworks catalog, DavidRumsey.com, the Library of Congress website, and the Internet Archive, participants will assemble custom sets of images via IIIF manifests and a webapp. 
+
+Participants will be familiarized with basic concepts related to IIIF (the International Image Interoperability Framework), learn to locate IIIF manifests for cultural heritage images in online archives, create a first collection, and view examples of ways galleries can be integrated into other resources, including Canvas and GitHub Pages. 
 
 
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
