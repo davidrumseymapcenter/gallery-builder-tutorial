@@ -1,12 +1,7 @@
 ---
-layout: article
+layout: default
 title: Working with the IIIF Gallery Builder
-url: /gallery-builder-tutorial/
-show_title: false
-aside:
-  toc: true
-sidebar:
-  nav: webmap-workshop
+nav_order: 1
 ---
 
 # Overview
