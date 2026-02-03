@@ -12,13 +12,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    ffi (1.17.1-arm64-darwin)
-    ffi (1.17.1-x86_64-linux-gnu)
+    ffi (1.17.1)
     forwardable-extended (2.6.0)
-    google-protobuf (4.29.3-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.29.3-x86_64-linux)
+    google-protobuf (4.29.3)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -43,6 +39,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-default-layout (0.1.5)
+      jekyll (>= 3.0, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
@@ -91,6 +89,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4.1)
+  jekyll-default-layout
   just-the-docs (= 0.12.0)
 
 BUNDLED WITH
