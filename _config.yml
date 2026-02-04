@@ -1,9 +1,9 @@
-title: IIIF Gallery Builder Tutorial
+title: IIIF Gallery Builder
 description: Learn how to create, save, and share IIIF image galleries using the Gallery Builder tool.
 theme: just-the-docs
 
-url: https://davidrumseymapcenter.github.io/gallery-builder-tutorial
-baseurl: /gallery-builder-tutorial
+url: https://davidrumseymapcenter.github.io/gallery-builder-tutorial/docs
+baseurl: /gallery-builder-tutorial/docs
 
 plugins:
   - jekyll-default-layout
