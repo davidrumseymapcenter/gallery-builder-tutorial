@@ -15,4 +15,5 @@ In this workshop participants will create simple, no-code digital galleries of i
 Participants will be familiarized with basic concepts related to IIIF (the International Image Interoperability Framework), learn to locate IIIF manifests for cultural heritage images in online archives, create a first collection, and view examples of ways galleries can be integrated into other resources, including Canvas and GitHub Pages. 
 
 
+<iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1000px height=800px></iframe>
 
