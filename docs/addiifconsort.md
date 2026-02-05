@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Choose Your Own Adventure
-parent: Add Manifests to Your Gallery
-nav_order: 3
+parent: Add Images
+nav_order: 4
 ---
 
 # Add Images to Your Gallery
