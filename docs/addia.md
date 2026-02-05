@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ...from the Internet Archive
+title: Internet Archive
 parent: Add Images
 nav_order: 3
 ---
