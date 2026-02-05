@@ -13,14 +13,14 @@ The IIIF Image Gallery Builder helps you create custom collections of images fro
 
 ### With this tool, you can:
 
-<ul> Add images from IIIF-compliant repositories
-<ul> View high-resolution images with zoom capabilities
-<ul> Rearrange and curate your collection
-<ul> Return to the source page to view full metadata
-<ul> Open maps in Allmaps Editor for cloud-based georeferencing
-<ul> Save galleries to your computer
-<ul> Share galleries with others via links
-<ul> Embed galleries within webpages or platforms like Canvas 
+- Add images from IIIF-compliant repositories
+- View high-resolution images with zoom capabilities
+- Rearrange and curate your collection
+- Return to the source page to view full metadata
+- Open maps in Allmaps Editor for cloud-based georeferencing
+- Save galleries to your computer
+- Share galleries with others via files or links
+- Embed galleries within webpages or platforms like Canvas 
 
 #### EXAMPLE IMAGE GALLERY
 

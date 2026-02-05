@@ -2,6 +2,21 @@
 layout: default
 title: Get Started
 nav_order: 3
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 ---
 
 # Create a Gallery
@@ -16,7 +31,7 @@ nav_order: 3
 
 - Scroll to the bottom of the sidebar and locate the IIIF Manifest
 
-[!TIP]
+>{: .highlight}
 The manifest is a link that starts with **https://purl.stanford.edu/** and ends with **manifest**
 
 - Right click on the clink and click "Copy Link Address"
@@ -28,10 +43,16 @@ The manifest is a link that starts with **https://purl.stanford.edu/** and ends 
 
 - A card or cards should appear below the Input Panel containing the thumbnail and metadata for the item you just added.
 
+{: .new}
 - ***Add 2 or more additional items following this same workflow.***
 
+# Customize your view
+
 ## Rearrange your collection
-- You can rearrange cards as needed by dragging and dropping. (Click within the card outline but *outside of the thumbnail image* to drag a card.)
+- You can rearrange cards as needed by dragging and dropping. 
+
+>{: .hightlight}
+(Click within the card outline but *outside of the thumbnail image* to drag a card.)
 
 - If you need to remove a card, click the x in the upper right corner.
 
