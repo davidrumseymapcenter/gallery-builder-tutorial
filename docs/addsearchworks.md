@@ -14,10 +14,10 @@ nav_order: 1
 
 - Scroll to the bottom of the sidebar and locate the IIIF Manifest
 
->{: .highlight}
+>{: .highlight }
 The manifest is a link that starts with **https://purl.stanford.edu/** and ends with **manifest**
 
 - Right click on the clink and click "Copy Link Address"
 
-{: .new}
-- ***Add 2 or more additional items from Searchworks following this same workflow.***
+{: .new }
+***Add 2 or more additional items from Searchworks following this same workflow.***
