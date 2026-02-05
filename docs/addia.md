@@ -15,16 +15,17 @@ The [Internet Archive](https://archive.org/){:target="_blank"} is a digital libr
 - Choose an item and visit the record page.
   
 >{: .highlight }
-Example: [https://archive.org/details/mma_the_celestial_map_northern_hemisphere_358366](/){:target="_blank"}
+Example: [https://archive.org/details/mma_the_celestial_map_northern_hemisphere_358366](https://archive.org/details/mma_the_celestial_map_northern_hemisphere_358366){:target="_blank"}
 
-- Copy the identifier for the record. It is right after “details”. 
+- Copy the identifier for the record. It is right after /details/. 
 
 >{: .highlight }
 In the above example it’s *mma_the_celestial_map_northern_hemisphere_358366*
 
 - Place that identifier or id into the following URL structure: https://iiif.archive.org/iiif/**:id**/manifest.json.
 
-- Our example becomes: https://iiif.archive.org/iiif/mma_the_celestial_map_northern_hemisphere_358366/manifest.json
+>{: .highlight }
+>Our example becomes: https://iiif.archive.org/iiif/**mma_the_celestial_map_northern_hemisphere_358366**/manifest.json
 
 - Use this webapp to streamline the process: [IA IIIF Manifest Generator](https://kristinallarsen.github.io/IIIFmanifest_maker/){:target="_blank"}.
 
