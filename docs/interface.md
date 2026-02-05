@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Understand the Interface
 
-<img src="/images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="500">
+<img src="images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="500">
 
 
 

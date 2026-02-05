@@ -12,11 +12,11 @@ Experiment with rearranging and deleting items and opening and closing the input
 {: .note }
 This tutorial does not cover use of Allmaps Editor -- please reach out for help if you are interested in learning how to use it to georeference map images. Otherwise you can ignore it for now!
 
-[Return to tutorial](https://davidrumseymapcenter.github.io/gallery-builder-tutorial/)
 
 [Open gallery in new page](https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json){:target="_blank"}
 
 <iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1000px height=800px></iframe>
 
-<iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder"></iframe>
+<hr>
 
+[Return to tutorial](https://davidrumseymapcenter.github.io/gallery-builder-tutorial/)
