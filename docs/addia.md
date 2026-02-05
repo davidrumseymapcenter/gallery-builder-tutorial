@@ -17,12 +17,12 @@ The [Internet Archive](https://archive.org/){:target="_blank"} is a digital libr
 >{: .highlight }
 Example: [https://archive.org/details/mma_the_celestial_map_northern_hemisphere_358366](https://archive.org/details/mma_the_celestial_map_northern_hemisphere_358366){:target="_blank"}
 
-- Copy the identifier for the record. It is right after /details/. 
+- Copy the identifier or "id" for the record. It is right after /details/. 
 
 >{: .highlight }
 In the above example it’s *mma_the_celestial_map_northern_hemisphere_358366*
 
-- Place that identifier or id into the following URL structure: https://iiif.archive.org/iiif/**:id**/manifest.json.
+- Place the id into the following URL structure: https://iiif.archive.org/iiif/**:id**/manifest.json.
 
 >{: .highlight }
 >Our example becomes: https://iiif.archive.org/iiif/**mma_the_celestial_map_northern_hemisphere_358366**/manifest.json
@@ -32,5 +32,5 @@ In the above example it’s *mma_the_celestial_map_northern_hemisphere_358366*
 - Copy your constructed link and navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 
 {: .new }
-***Add 2 or more additional items from the Library of Congress following this same workflow.***
+***Add 2 or more additional items from the Internet Archive following this same workflow.***
 
