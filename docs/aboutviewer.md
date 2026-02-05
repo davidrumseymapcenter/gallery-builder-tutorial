@@ -23,5 +23,5 @@ The IIIF Image Gallery Builder helps you create custom collections of images fro
 - Embed galleries within webpages or platforms like Canvas 
 
 
-
+<hr>
 
