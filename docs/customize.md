@@ -10,7 +10,7 @@ nav_order: 2
 ## Rearrange your collection
 - You can reorder cards as needed by dragging and dropping. 
 
->{: .hightlight}
+>{: .highlight }
 (Click within the card outline but *outside of the thumbnail image* to drag a card.)
 
 - If you want to remove a card, click the x in the upper right corner.
