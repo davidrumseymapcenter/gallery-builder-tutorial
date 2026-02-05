@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ...from DavidRumsey.com
+title: DavidRumsey.com
 parent: Add Images
 nav_order: 2
 ---
