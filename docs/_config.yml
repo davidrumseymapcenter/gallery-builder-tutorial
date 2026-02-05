@@ -10,4 +10,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-enable_copy_code_button: true
