@@ -25,6 +25,5 @@ callouts:
   warning:
     title: Warning
     color: red
-  
-  enable_copy_code_button: true
-  
+
+enable_copy_code_button: true
