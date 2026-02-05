@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ...from Searchworks
+title: Searchworks
 parent: Add Images
 nav_order: 1
 ---
