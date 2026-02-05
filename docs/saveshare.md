@@ -15,8 +15,10 @@ nav_order: 5
 
 - You can make changes to the gallery after saving it but you will need to save a new version of the document. 
 
-#### About File Naming Conventions
-Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your versions. Include your initials as above if you are collaborating with others by sending files back and forth or uploading them to Google Drive. 
+{: .note-title }
+> About File Naming Conventions
+>
+> Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your versions. Include your initials as above if you are collaborating with others by sending files back and forth or uploading them to Google Drive. 
 
 ### For use in other IIIF Viewers
 - Save your gallery by typing a name in the field below “SAVE GALLERY” and click on the grey IIIF logo in the lower right corner of the input window. 
@@ -34,7 +36,7 @@ Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your 
 
 - Attach your JSON file to an email
 
-- In the body of the email, paste the link to the webapp: <https://davidrumseymapcenter.github.io/set-builder/>
+- In the body of the email, paste the link to the webapp: <https://davidrumseymapcenter.github.io/set-builder/>{:target="_blank"}
 
 - Tell the recipient to download the file to their desktop and open it using the "Load Gallery" button in the app
 
@@ -42,11 +44,11 @@ Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your 
 
 - Save your gallery locally (download JSON file)
 
-- Go to <gist.github.com>
+- Go to <https://gist.github.com>
 
 - Sign in (or skip for anonymous gist)
 
-- Drag and drop your JSON file into the text box, OR paste the contents
+- Drag and drop your JSON file into the text box, or paste the contents
 
 - In "Filename including extension" field, give it a descriptive name (e.g., "colonial-maps.json")
 
@@ -60,11 +62,13 @@ Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your 
 
 - Create your shareable link:
 
-```https://davidrumseymapcenter.github.io/set-builder/?file=PASTE_GIST_RAW_URL_HERE
+```html
+https://davidrumseymapcenter.github.io/set-builder/?file=PASTE_GIST_RAW_URL_HERE
 ```
 
 Example:
 
-```https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
+```html
+https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
 ```
 
