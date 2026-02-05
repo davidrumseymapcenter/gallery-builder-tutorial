@@ -6,10 +6,7 @@ nav_order: 2
 
 # Overview
 
-This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
-
-## What's an Image Gallery?
-
+This section will provide an introduction to some foundational concepts behind how the gallery builder works and offer scenerios within which it could be useful.
 
 
 ## What is IIIF?
