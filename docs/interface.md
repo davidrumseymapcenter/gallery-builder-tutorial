@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Inferface
+title: The Interface
 parent: Tutorial Home
 nav_order: 2
 ---

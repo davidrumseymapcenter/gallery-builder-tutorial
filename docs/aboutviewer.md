@@ -22,10 +22,6 @@ The IIIF Image Gallery Builder helps you create custom collections of images fro
 - Share galleries with others via files or links
 - Embed galleries within webpages or platforms like Canvas 
 
-<hr>
 
-#### SCREENSHOT OF GALLERY
-
-![Screenshot of the gallery builder showing a collection entitled Maps of the American West] (/images/amwest.png)
 
 
