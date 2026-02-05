@@ -9,3 +9,22 @@ plugins:
   - jekyll-default-layout
   - jekyll-seo-tag
   - jekyll-include-cache
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  
+  enable_copy_code_button: true
+  

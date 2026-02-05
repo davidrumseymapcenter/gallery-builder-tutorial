@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Add from Library of Congress
+title: ...from the Library of Congress
 parent: Add Images
-nav_order: 3
+nav_order: 4
 ---
 
 # Add Images to Your Gallery
@@ -14,6 +14,9 @@ The [Library of Congress](https://www.loc.gov/){:target="_blank"} is essentially
 
 - Choose an item and go to the record page. 
 
-- Scroll to the bottom of the record. THe last text entry will be "IIIF Presentation Manifest." Right click on "Manifest (JSON/LD)" and copy the link address.
+- Scroll to the bottom of the record. The last text entry will be titled "IIIF Presentation Manifest." Right click on "Manifest (JSON/LD)" and copy the link address.
 
 - Navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
+
+{: .new}
+***Add 2 or more additional items from the Library of Congress following this same workflow.***
