@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ...from the Library of Congress
+title: Library of Congress
 parent: Add Images
 nav_order: 4
 ---
