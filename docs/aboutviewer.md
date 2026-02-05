@@ -22,4 +22,11 @@ The IIIF Image Gallery Builder helps you create custom collections of images fro
 - Share galleries with others via files or links
 - Embed galleries within webpages or platforms like Canvas 
 
+<hr>
+
+#### EXAMPLE IMAGE GALLERY
+
+[Click here to open in new page](https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json){:target="_blank"
+
+<iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1000px height=800px></iframe>
 
