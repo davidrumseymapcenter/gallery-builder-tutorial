@@ -2,21 +2,6 @@
 layout: default
 title: Get Started
 nav_order: 3
-callouts:
-  highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
 ---
 
 # Create a Gallery
@@ -24,17 +9,24 @@ callouts:
 ## Open the Gallery Builder tool
 - [https://davidrumseymapcenter.github.io/set-builder/](/){:target="_blank"}
 
-## Find a IIIF Manifest in Searchworks
-- Go to [Searchworks.stanford.edu](https://searchworks.stanford.edu/?f%5Bformat_hsim%5D%5B%5D=Map&f%5Bformat_hsim%5D%5B%5D=Image&f%5Blibrary%5D%5B%5D=SDR&f%5Blibrary%5D%5B%5D=RUMSEY-MAP&sort=year-asc){:target="_blank"} and find a record for a map that includes an image. 
+## Copy a manifest
 
-- In the item record, click on the “hamburger” menu in the upper left corner of the box containing the image to toggle the sidebar
+- We have provided you with a few manifests to start out. 
 
-- Scroll to the bottom of the sidebar and locate the IIIF Manifest
+- Select one of the links below and copy it using the clipboard icon in the upper right corner of the box.
 
->{: .highlight}
-The manifest is a link that starts with **https://purl.stanford.edu/** and ends with **manifest**
+```html
+https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/manifest
+```
 
-- Right click on the clink and click "Copy Link Address"
+```html
+https://purl.stanford.edu/qc662jw3989/iiif/manifest
+```
+
+```html
+https://iiif.archive.org/iiif/map198204401/manifest.json
+```
+
 
 ## Add the manifest to your gallery
 - In the IIIF Gallery Builder tool, paste the manifest into the top field (*the box that says 'Enter IIIF manifest URLs (comma-separated)'*) and click “Add Manifest(s)”
@@ -44,26 +36,6 @@ The manifest is a link that starts with **https://purl.stanford.edu/** and ends 
 - A card or cards should appear below the Input Panel containing the thumbnail and metadata for the item you just added.
 
 {: .new}
-- ***Add 2 or more additional items following this same workflow.***
+***Add the other items following this same workflow.***
 
-# Customize your view
 
-## Rearrange your collection
-- You can rearrange cards as needed by dragging and dropping. 
-
->{: .hightlight}
-(Click within the card outline but *outside of the thumbnail image* to drag a card.)
-
-- If you need to remove a card, click the x in the upper right corner.
-
-## Change what you can see
-- Use the control links at upper right to hide and show the input panel and hide and show the viewing pane. 
-
-- Change the size of the viewing pane by dragging the vertical grey bar to your desired location.
-
-## Save your work to your computer
-- Choose a title for your gallery and type it in the field that says "Enter gallery name". Note that if you don't choose a name the tool will autogenerate one with today's date
-
-- Click the Save Gallery button
-
-- Navigate to your downloads folder (this may be your desktop) and find the file you just saved. It will have the title you chose with the suffix "-gallery.json"
