@@ -14,3 +14,4 @@ In this workshop participants will create simple, no-code digital galleries of i
 
 Participants will be familiarized with basic concepts related to IIIF (the International Image Interoperability Framework), learn to locate IIIF manifests for cultural heritage images in online archives, create a first collection, and view examples of ways galleries can be integrated into other resources, including Canvas and GitHub Pages. 
 
+<hr>
