@@ -1,0 +1,28 @@
+---
+layout: default
+title: Meet the Gallery Builder
+parent: Tutorial Home
+nav_order: 1
+---
+
+# About the IIIF Gallery Viewer
+
+## What you will build
+
+The IIIF Image Gallery Builder helps you create custom collections of images from IIIF (International Image Interoperability Framework) manifests. 
+
+### With this tool, you can:
+
+<ul> Add images from IIIF-compliant repositories
+<ul> View high-resolution images with zoom capabilities
+<ul> Rearrange and curate your collection
+<ul> Return to the source page to view full metadata
+<ul> Open maps in Allmaps Editor for cloud-based georeferencing
+<ul> Save galleries to your computer
+<ul> Share galleries with others via links
+<ul> Embed galleries within webpages or platforms like Canvas 
+
+#### EXAMPLE IMAGE GALLERY
+
+<iframe src="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1000px height=800px></iframe>
+
