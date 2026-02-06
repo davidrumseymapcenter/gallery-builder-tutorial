@@ -7,7 +7,10 @@ nav_order: 2
 
 # Understand the Interface
 
-In this section you will familiarize yourself with the different parts of the app. 
+In this section you will familiarize yourself with the three main parts of the app:
+- the [input panel](interface.html#input-panel)
+- the [item cards](interface.html#item-cards)
+- the [viewing pane](interface.html#viewing-pane)
 
 
 <img src="images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
@@ -39,6 +42,7 @@ You can load a previously saved gallery in two ways:
 ### SAVE GALLERY
 
 Field to enter title, labelled *"Enter gallery name"*
+
 Save a gallery in two ways:
 1. Save File button to save locally in a format compatible with this app
 2. Export using the IIIF logo in lower right to create a IIIF 2.0 compliant file
