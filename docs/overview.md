@@ -39,7 +39,7 @@ It is written in a string of text in a format called JSON (pronounced *jay-SOHN*
 
 JSON is a file format that uses human-readable text to store and transmit data objects.
 
-Today we will be working with a IIIF Manifest endpoint, or the link to the manifest. 
+Today we will be working with IIIF Manifest endpoints, or the links to the manifests. 
 
 You saw these manifests in the first step:
 
@@ -57,7 +57,11 @@ https://iiif.archive.org/iiif/map198204401/manifest.json
 
 ## A quick peek at some code
 
-Copy one of the links in the boxes above, and paste it into the address bar in your web browser.
+Copy one of the links in the boxes above, and paste it into the address bar in your web browser. 
 
+The code is described as "human-readable" because we can decypher some of it as natural language. 
 
-### 
+See if you can find some pairs, or combinations of *labels* and their *values*. 
+
+<hr>
+
