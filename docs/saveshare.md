@@ -8,17 +8,7 @@ nav_order: 5
 
 ## Save Your Gallery 
 
-### For use in this web app
-- Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
-- A file will be saved to your desktop with a name like “coolmaps-gallery.json”. The suffix “-gallery” indicates a file that can be read by the gallery builder web app. 
-
-- You can make changes to the gallery after saving it but you will need to save a new version of the document. 
-
-{: .note-title }
-> About File Naming Conventions
->
-> Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your versions. Include your initials as above if you are collaborating with others by sending files back and forth or uploading them to Google Drive. 
 
 ### For use in other IIIF Viewers
 - Save your gallery by typing a name in the field below “SAVE GALLERY” and click on the grey IIIF logo in the lower right corner of the input window. 
