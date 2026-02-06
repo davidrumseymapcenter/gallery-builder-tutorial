@@ -12,14 +12,14 @@ In this section you will familiarize yourself with the different parts of the ap
 
 <img src="images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
-
 ## Input Panel
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
 
+Once saved, the title of your gallery will appear at the top of the window. 
+
 <img src="images/input.png" alt="Screenshot of the gallery builder input panel" width="400">
 
-Once saved, the title of your gallery will appear at the top of the window. 
 
 Also at the top there are three control links:
 - **GET HELP:** opens the help page
@@ -38,16 +38,16 @@ You can load a previously saved gallery in two ways:
 
 ### SAVE GALLERY
 
-Field to enter title, labelled "Enter gallery name"
+Field to enter title, labelled *"Enter gallery name"*
 Save a gallery in two ways:
-1. Save File butto to save locally in a format compatible with this app
+1. Save File button to save locally in a format compatible with this app
 2. Export using the IIIF logo in lower right to create a IIIF 2.0 compliant file
 
 <hr>
-
 ## Item Cards
 
 Item cards appear in a grid below the input panel as you add them. 
+
 Each item or page you add to the gallery will have its own card. 
 
 <img src="images/card.png" alt="Screenshot of a gallery builder item card" width="450">
@@ -65,6 +65,7 @@ Each item or page you add to the gallery will have its own card.
 - **Attribution:** information about the source institution or information on usage
 
 Note that this is just a summary and metadata handling varies by institution. 
+
 It is a good idea to view the item at its source to see the full metadata record.
 
 ### Links
@@ -74,10 +75,10 @@ It is a good idea to view the item at its source to see the full metadata record
 - **ALLMAPS EDITOR:** opens Allmaps Editor and populates the field with the item manifest 
 
 <hr>
-
 ## Viewing Pane
 
-The viewing pane is on the right side of the gallery window
+The viewing pane is on the right side of the gallery window.
+
 It provides a window for zooming in and examining item images
 
 
@@ -87,6 +88,7 @@ It provides a window for zooming in and examining item images
 - Zoom in and out with the mouse scroll wheel and click and drag to pan
 - Click and drag the vertical bar in the center to resize the viewing pane
 
+<hr>
 
 
 
