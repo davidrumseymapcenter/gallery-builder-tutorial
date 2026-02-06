@@ -6,20 +6,20 @@ nav_order: 2
 ---
 
 # Understand the Interface
+{: .no_toc }
 
 In this section you will familiarize yourself with the three main parts of the app:
-- the [input panel](interface.html#input-panel)
-- the [item cards](interface.html#item-cards)
-- the [viewing pane](interface.html#viewing-pane)
 
 
-<img src="images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
+
+<img src="images/amwestlabeled.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
-## Input Panel
+## 1. Input Panel
+{:toc}
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
 
-Once saved, the title of your gallery will appear at the top of the window. 
+Once saved, the title of your gallery will appear in blue text at the top of the window. 
 
 <img src="images/input.png" alt="Screenshot of the gallery builder input panel" width="400">
 
@@ -48,7 +48,7 @@ Save a gallery in two ways:
 2. Export using the IIIF logo in lower right to create a IIIF 2.0 compliant file
 
 <hr>
-## Item Cards
+## 2. Item Cards
 
 Item cards appear in a grid below the input panel as you add them. 
 

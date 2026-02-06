@@ -8,6 +8,7 @@ nav_order: 2
 
 This section will provide an introduction to some foundational concepts behind how the gallery builder works and offer scenerios within which it could be useful.
 
+*add logo image here*
 
 ## What is IIIF?
 
@@ -41,7 +42,12 @@ JSON is a file format that uses human-readable text to store and transmit data o
 
 Today we will be working with IIIF Manifest endpoints, or the links to the manifests. 
 
-You saw these manifests in the first step:
+## A quick peek at some code
+
+As advertised, you don't need to understand the code to build or use galleries.
+
+But it may help you to have a rough idea of what's happening, so we're going to take a quick look at the contents of a manifest.
+
 
 ```html
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/manifest
@@ -54,8 +60,6 @@ https://purl.stanford.edu/ht369zy9186/iiif/manifest
 ```html
 https://iiif.archive.org/iiif/map198204401/manifest.json
 ```
-
-## A quick peek at some code
 
 Copy one of the links in the boxes above, and paste it into the address bar in your web browser. 
 
