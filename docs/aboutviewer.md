@@ -7,6 +7,8 @@ nav_order: 1
 
 # About the IIIF Gallery Viewer
 
+<img src="images/row.png" alt="Screenshot of the gallery builder showing one row of items from a collection" width="1000">
+
 ## What you will build
 
 The IIIF Image Gallery Builder helps you create custom collections of images from IIIF (International Image Interoperability Framework) manifests. 
@@ -22,7 +24,6 @@ The IIIF Image Gallery Builder helps you create custom collections of images fro
 - Share galleries with others via files or links
 - Embed galleries within webpages or platforms like Canvas 
 
-<img src="images/row.png" alt="Screenshot of the gallery builder showing one row of items from a collection" width="1000">
 
 <hr>
 

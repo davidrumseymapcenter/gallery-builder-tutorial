@@ -23,12 +23,10 @@ Here are some things to try:
 
 [For the best view, open gallery in new page](https://davidrumseymapcenter.github.io/set-builder/index.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json){:target="_blank"}
 
-
-{: .note }
-*This tutorial does not cover the use of Allmaps Editor -- please reach out for help if you are interested in learning how to use it to georeference map images. Otherwise you can ignore it for now!*
-
-
 <iframe src="https://davidrumseymapcenter.github.io/set-builder/index.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1200px height=800px></iframe>
 
 <hr>
+{: .note }
+*This tutorial does not cover the use of Allmaps Editor -- please reach out for help if you are interested in learning how to use it to georeference map images. Otherwise you can ignore it for now!*
+
 [Return to tutorial](https://davidrumseymapcenter.github.io/gallery-builder-tutorial/)
