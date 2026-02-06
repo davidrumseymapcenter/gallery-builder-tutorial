@@ -8,6 +8,7 @@ nav_order: 3
 # Things to Try
 
 Explore the gallery below and familiarize yourself with the way it works. 
+<hr>
 
 Here are some things to try:
 

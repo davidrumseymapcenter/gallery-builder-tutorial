@@ -9,7 +9,7 @@ nav_order: 5
 ## Save Your Gallery 
 
 ### For use in this web app
-- Save your gallery by typing a name (use the class name with underscores instead of spaces) in the field below “SAVE GALLERY” and click “Save Locally”.
+- Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
 - A file will be saved to your desktop with a name like “coolmaps-gallery.json”. The suffix “-gallery” indicates a file that can be read by the gallery builder web app. 
 
@@ -25,7 +25,7 @@ nav_order: 5
 
 - A file will be saved to your desktop with a name like coolmaps-manifest.json. The suffix “-manifest” indicates a file that can be opened with other IIIF Viewers like Mirador or Universal Viewer. 
 
-- You will need to host your new manifest somewhere to open it in those viewers
+- You will need to host your new manifest somewhere to open it in those viewers.
 
 - If you are editing a gallery that is already being hosted somewhere (like on GitHub or Gist) and a link to it has been shared, you will need to replace the old file– or the code in the old file– in order for other users to see changes at that link. 
 

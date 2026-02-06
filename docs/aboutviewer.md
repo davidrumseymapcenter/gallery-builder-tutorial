@@ -5,7 +5,7 @@ parent: Tutorial Home
 nav_order: 1
 ---
 
-# About the IIIF Gallery Viewer
+# About the IIIF Gallery Builder
 
 <img src="images/row.png" alt="Screenshot of the gallery builder showing one row of items from a collection" width="1000">
 <hr>
