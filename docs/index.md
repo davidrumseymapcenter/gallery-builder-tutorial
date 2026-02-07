@@ -4,7 +4,7 @@ title: Tutorial Home
 nav_order: 1
 ---
 
-# About
+# About the workshop
 
 This tutorial covers how to build an image gallery incorporating material from digital repositories using the IIIF Gallery Builder web app. 
 

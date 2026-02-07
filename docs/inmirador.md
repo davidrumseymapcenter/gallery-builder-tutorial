@@ -19,7 +19,7 @@ Save for use in IIIF Viewers like Mirador
 
 >{: .highlight } 
 >You will need to host your new manifest somewhere in the cloud to open it in those viewers. 
->You will learn how to do this in a few minutes.
+>You will learn how to do this in the next step.
 
 <hr>
 

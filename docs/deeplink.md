@@ -12,7 +12,7 @@ To share your gallery without moving files to drive or as email attachments you 
 [This is an example](https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
 ){:target="_blank"}
 
-This is a slightly complicated and requires a little more work to accomplish, but it is totally doable and worth the effort in most cases!
+This is slightly complicated and requires a little more work to accomplish, but it is totally doable and worth the effort in most cases!
 <hr>
 
 ## Working with Github "Gists"
@@ -21,7 +21,7 @@ This is a slightly complicated and requires a little more work to accomplish, bu
 
 - To include your gallery in a deep link, it must be in the cloud somewhere.
 
-- A straightforward way to do this is to create a code snippet file called a Gist that contains the code from your gallery JSON.
+- A straightforward way to do this is to create a code snippet file (called a Gist) that contains the code from your gallery JSON.
 
 <hr>
 
@@ -34,7 +34,7 @@ This is a slightly complicated and requires a little more work to accomplish, bu
 - If not, create a new account.
 
 {: .warning }
-You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted. 
+You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted. You have been warned!
 
 <hr>
 
@@ -60,7 +60,7 @@ Secret gists are fine! they can't be opened without the gallery builder link so 
 - Create your shareable link:
 
 ```html
-https://davidrumseymapcenter.github.io/set-builder/?file=**PASTE_GIST_RAW_URL_HERE**
+https://davidrumseymapcenter.github.io/set-builder/?file=PASTE_GIST_RAW_URL_HERE
 ```
 
 Example:
