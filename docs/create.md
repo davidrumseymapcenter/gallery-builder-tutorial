@@ -13,7 +13,7 @@ Let's get started with our first gallery.
 <hr>
 
 ## Open the Gallery Builder tool
-- [https://davidrumseymapcenter.github.io/set-builder/](https://davidrumseymapcenter.github.io/set-builder/){:target="_blank"}
+[https://davidrumseymapcenter.github.io/set-builder/](https://davidrumseymapcenter.github.io/set-builder/){:target="_blank"}
 
 Keep the tool open in one browser tab and this tutorial open in another. 
 <hr>

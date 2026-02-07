@@ -31,7 +31,7 @@ In the above example it’s *mma_the_celestial_map_northern_hemisphere_358366*
 
 - Use [this webapp](https://kristinallarsen.github.io/IIIFmanifest_maker/){:target="_blank"} to streamline the process.
 
-<iframe src="https://kristinallarsen.github.io/IIIFmanifest_maker/" allow="clipboard-write" style="border:none;" width="100%" height="600" title="IIIF Manifest Generator"></iframe>
+<iframe src="https://kristinallarsen.github.io/IIIFmanifest_maker/" allow="clipboard-write" style="border:none;" width="100%" height="500" title="IIIF Manifest Generator"></iframe>
 
 - Copy your constructed link and navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 

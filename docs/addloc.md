@@ -14,9 +14,13 @@ The [Library of Congress](https://www.loc.gov/){:target="_blank"} is the de fact
 
 - Choose an item and go to the record page. 
 
-- Scroll to the bottom of the record. The last text entry will be titled "IIIF Presentation Manifest." Right click on "Manifest (JSON/LD)" and copy the link address.
+- Scroll all the way to the bottom of the record. 
+
+- The last text entry will be titled "IIIF Presentation Manifest." Right click on "Manifest (JSON/LD)" and copy the link address.
 
 - Navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 
 {: .new}
 ***Add 2 or more additional items from the Library of Congress following this same workflow.***
+
+<hr>

@@ -7,7 +7,9 @@ nav_order: 3
 
 # Save your work
 
-In the review of the interface we mentioned that the galleries can be saved as two different kinds of files. For this part of the workshop, we are saving in a format that can be reopened in this webapp.
+In the review of the interface we mentioned that the galleries can be saved as two different kinds of files. For this part of the workshop, we are saving in the format that can be reopened in this webapp.
+
+<hr>
 
 ## Name your collection
 

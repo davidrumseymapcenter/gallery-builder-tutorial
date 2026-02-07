@@ -5,19 +5,19 @@ title: Share via Deep Links
 nav_order: 3
 ---
 
-# Saving and Sharing Collections
+# Saving and Sharing
 
 To share your gallery without moving files to drive or as email attachments you can create a special link called a "deep link" that will open your collection in the gallery builder in a browser window.
 
 [This is an example](https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
-){:target="_blank"})
+){:target="_blank"}
 
 This is a slightly complicated and requires a little more work to accomplish, but it is totally doable and worth the effort in most cases!
 <hr>
 
 ## Working with Github "Gists"
 
-- **Gist** is a website operated by GitHub that allows users to save code snippets without creating full-blown respositories.
+- [**Gist**](https://gist.github.com){:target="_blank"} is a website operated by GitHub that allows users to save code snippets without creating full-blown respositories.
 
 - To include your gallery in a deep link, it must be in the cloud somewhere.
 
@@ -27,7 +27,7 @@ This is a slightly complicated and requires a little more work to accomplish, bu
 
 ### Create a Gist account
 
-- Go to [https://gist.github.com](https://gist.github.com)
+- Go to [https://gist.github.com](https://gist.github.com){:target="_blank"}
 
 - If you already have a GitHub account you can sign in with that.
 
