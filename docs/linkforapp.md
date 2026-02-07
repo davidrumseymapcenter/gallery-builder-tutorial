@@ -1,8 +1,8 @@
 ---
 layout: default
 parent: Saving and Sharing
-title: Put Your Code in the Cloud
-nav_order: 3
+title: Open Deep Link in App 
+nav_order: 4
 ---
 
 # Saving and Sharing
@@ -44,7 +44,9 @@ You can create Gists without an account. These are called "anonymous gists". The
 
 - Drag and drop your JSON file into the text box, or paste its contents
 
-- In "Filename including extension" field, give it a descriptive name (e.g., "colonial-maps.json")
+- In "Filename including extension" field, give it a descriptive name ending with -gallery.json
+
+- We are using "-gallery" to keep straight which files we have made that will work in the Gallery Builder and which ones will work in IIIF Viewers. You can leave it out or choose another method for distinguishing link types for yourself.
 
 - Optionally add a description
 
@@ -57,7 +59,7 @@ You can create Gists without an account. These are called "anonymous gists". The
 
 - Copy the URL from your browser's address bar
 
-- Create your shareable link:
+- Build your shareable link:
 
 ```html
 https://davidrumseymapcenter.github.io/set-builder/?file=PASTE_GIST_RAW_URL_HERE
@@ -68,6 +70,16 @@ Example:
 ```html
 https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
 ```
+
+## :zap: Test and share your work
+
+Paste your link into the doc below.
+
+- Test it to see if you can open it successfully 
+
+- Try opening other people's links
+
+<iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?embedded=true" width="800" height="600"></iframe>
 
 
 <hr>

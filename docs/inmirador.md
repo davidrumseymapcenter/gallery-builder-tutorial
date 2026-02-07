@@ -6,9 +6,19 @@ nav_order: 2
 ---
 
 # Saving and Sharing
+There are many IIIF-compliant Viewers offering different ways of looking at and interacting with images. 
 
-Save for use in IIIF Viewers like Mirador
+The Gallery Builder app breaks some IIIF rules in order to show individual pages from a multi-page volume. 
 
+But you can export IIIF-compliant files and open those in other viewers. 
+
+In the steps that follow you will compare the differences. 
+
+{: .note }
+:blue_book: Learn more about [IIIF Viewers](https://iiif.io/get-started/iiif-viewers/) on the consortium website. 
+<hr>
+
+## :floppy_disk: Save for use in IIIF Viewers
 - Name your gallery by typing a name in the field below “SAVE GALLERY” or use the same name.
 
 - This time, click on the **grey IIIF logo** in the lower right corner of the input window. 
