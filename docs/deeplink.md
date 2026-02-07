@@ -15,7 +15,7 @@ To share your gallery without moving files to drive or as email attachments you 
 This is slightly complicated and requires a little more work to accomplish, but it is totally doable and worth the effort in most cases!
 <hr>
 
-## :octocat: Working with Github "Gists"
+## 🤓 Working with Github "Gists"
 
 - [**Gist**](https://gist.github.com){:target="_blank"} is a website operated by GitHub that allows users to save code snippets without creating full-blown respositories.
 
@@ -25,7 +25,7 @@ This is slightly complicated and requires a little more work to accomplish, but 
 
 <hr>
 
-### :tada: Create a Gist account
+### 🎉 Create a Gist account
 
 - Go to [https://gist.github.com](https://gist.github.com){:target="_blank"}
 
@@ -34,11 +34,11 @@ This is slightly complicated and requires a little more work to accomplish, but 
 - If not, create a new account.
 
 {: .warning }
-You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted. You have been warned :grinning: 
+You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted. You have been warned 😀
 
 <hr>
 
-## :link: Create a Sharable Link with GitHub Gist
+## 🔗 Create a Sharable Link with GitHub Gist
 
 - Sign in (or skip for an anonymous gist)
 
@@ -51,7 +51,7 @@ You can create Gists without an account. These are called "anonymous gists". The
 - Click "Create public gist" or "Create secret gist" to make it unlisted
 
 {: .highlight } 
-:shushing_face: Secret gists are fine! they can't be opened without the gallery builder link so there is no reason to make them public. 
+🤫 Secret gists are fine! they can't be opened without the gallery builder link so there is no reason to make them public. 
 
 - Click the "Raw" button in the top-right corner
 
