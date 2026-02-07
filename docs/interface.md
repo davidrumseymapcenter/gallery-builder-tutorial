@@ -10,12 +10,12 @@ nav_order: 2
 
 In this section you will familiarize yourself with the three main parts of the app:
 
-
+1. toc
+{:toc}
 
 <img src="images/amwestlabeled.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
 ## 1. Input Panel
-{:toc}
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
 
@@ -79,7 +79,7 @@ It is a good idea to view the item at its source to see the full metadata record
 - **ALLMAPS EDITOR:** opens Allmaps Editor and populates the field with the item manifest 
 
 <hr>
-## Viewing Pane
+## 3. Viewing Pane
 
 The viewing pane is on the right side of the gallery window.
 

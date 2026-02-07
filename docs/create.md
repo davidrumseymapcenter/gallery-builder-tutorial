@@ -6,14 +6,18 @@ nav_order: 3
 
 # Create a Gallery
 
+Let's get started with our first gallery.  
+
 ## Open the Gallery Builder tool
 - [https://davidrumseymapcenter.github.io/set-builder/](ttps://davidrumseymapcenter.github.io/set-builder/){:target="_blank"}
+
+Keep the tool open in one browser tab and this tutorial open in another. 
 
 ## Copy a manifest
 
 - We have provided you with a few manifests to start out. 
 
-- Select one of the links below and copy it using the clipboard icon in the upper right corner of the box.
+- Choose one of the links below and copy it using the clipboard icon in the upper right corner of the box.
 
 ```html
 https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~296148~90067635/manifest
