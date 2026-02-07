@@ -4,18 +4,20 @@ title: For Use in App
 parent: Saving and Sharing
 nav_order: 1
 ---
-# Save for use in this web app
+# Saving and Sharing Collections 
 
-## Exchanging files
+Save your collection for use in this web app and exchange files with collaborators
+
+## Save Gallery File
 
 - Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
-- A file will be saved to your desktop with a name like “coolmaps-gallery.json”. The suffix “-gallery” indicates a file that can be read by the gallery builder web app. 
+- A file will be saved to your desktop with a name like “GALLERYNAME-gallery.json”. 
 
-{: .note-title }
-You will be able to make changes to the gallery after saving it but you will need to save a new version of the document. 
+- The suffix “-gallery” indicates a file that can be read by the Gallery Builder web app. 
 
 ## Share via Google Drive
+
 - Access the [shared drive](https://drive.google.com/drive/folders/18hpn5Mntns-cf38rpj5CHfyaTS0BzlXu?usp=sharing) for this workshop
 
 - Upload your gallery file to the drive
@@ -26,7 +28,7 @@ You will be able to make changes to the gallery after saving it but you will nee
 
 - Under the heading "LOAD GALLERY" click the Choose File button. Navigate to the file you just downloaded and open it
 
-# Versioning and Collaboration
+## Versioning and Collaboration
 
 - Spend a few minutes modifying the gallery by adding and/or removing items and rearranging things.
 
@@ -36,15 +38,22 @@ You will be able to make changes to the gallery after saving it but you will nee
 
 - Upload your modified gallery to the shared drive
 
-- Select a modified file -- maybe your own was changed -- and download it
+- Select a modified file -- maybe your own gallery was changed -- and download it
 
 - Open the modified file to view changes
 
 {: .note-title }
 > About File Naming Conventions
 >
-> Use a file naming convention (coolmaps01kl, coolmaps02kl) to keep track of your own versions as well as versions created by collaborators.
+> Use a file naming convention (coolmapskl01, coolmapskl02) to keep track of your own versions as well as versions created by collaborators.
 
+### Share via email
+
+- Attach your JSON file to an email. Maybe send it to yourself so you can find it later.
+
+- In the body of the email, paste the link to the webapp: <https://davidrumseymapcenter.github.io/set-builder/>{:target="_blank"}
+
+- Tell the recipient to download the file to their desktop and open it using the "Load Gallery" button in the app
 
 
 

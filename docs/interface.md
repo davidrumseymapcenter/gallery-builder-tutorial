@@ -15,7 +15,7 @@ In this section you will familiarize yourself with the three main parts of the a
 
 <img src="images/amwestlabeled.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
-## 1. Input Panel
+## Input Panel
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
 
@@ -30,6 +30,7 @@ Also at the top there are three control links:
 - **HIDE VIEWER:** hides or reveals the zoom panel on the right side of the browser window
 
 ### ADD IIIF MANIFESTS
+{: .no_toc }
 
 Field for adding manifests, labeled *"Enter IIIF Manifest URLs (comma-separated)"*
 
@@ -48,7 +49,7 @@ Save a gallery in two ways:
 2. Export using the IIIF logo in lower right to create a IIIF 2.0 compliant file
 
 <hr>
-## 2. Item Cards
+## Item Cards
 
 Item cards appear in a grid below the input panel as you add them. 
 
@@ -79,7 +80,7 @@ It is a good idea to view the item at its source to see the full metadata record
 - **ALLMAPS EDITOR:** opens Allmaps Editor and populates the field with the item manifest 
 
 <hr>
-## 3. Viewing Pane
+## Viewing Pane
 
 The viewing pane is on the right side of the gallery window.
 
