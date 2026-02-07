@@ -35,12 +35,14 @@ Also at the top there are three control links:
 Field for adding manifests, labeled *"Enter IIIF Manifest URLs (comma-separated)"*
 
 ### LOAD GALLERY
+{: .no_toc }
 
 You can load a previously saved gallery in two ways:
 1. Use the Choose File button to upload a file from your computer
 2. Paste a link to a file hosted in the cloud in the indicated field and click Load from URL
 
 ### SAVE GALLERY
+{: .no_toc }
 
 Field to enter title, labelled *"Enter gallery name"*
 
@@ -58,10 +60,12 @@ Each item or page you add to the gallery will have its own card.
 <img src="images/card.png" alt="Screenshot of a gallery builder item card" width="450">
 
 ### Image
+{: .no_toc }
 
 - **Item thumbnail:** click this to open the image in the viewing pane
 
 ### Metadata
+{: .no_toc }
 
 - **Title:** note that long titles are truncated after four lines
 - **Author:** if source metadata lists multiple creator roles the card will only show the first one
@@ -74,6 +78,7 @@ Note that this is just a summary and metadata handling varies by institution.
 It is a good idea to view the item at its source to see the full metadata record.
 
 ### Links
+{: .no_toc }
 
 - **VIEW ITEM:** opens the record for the item at its source repository
 - **VIEW MANIFEST:** opens the JSON file containing the manifest information in your browser

@@ -1,24 +1,28 @@
 ---
 layout: default
-title: Overview
+title: About IIIF
 nav_order: 2
 ---
 
-# Overview
+# About IIIF
+{: .no_toc }
+This section will provide an introduction to some foundational concepts behind how the gallery builder works.
 
-This section will provide an introduction to some foundational concepts behind how the gallery builder works and offer scenerios within which it could be useful.
+1. toc
+{:toc}
 
+<hr>
 <img src="images/iiifLogo_Long.png" alt="International Image Interoperability Framework logo" width="400">
 
 ## What is IIIF?
 
-IIIF stands for the International Image Interoperability Framework.
+IIIF stands for the **International Image Interoperability Framework**.
 
 It is pronounced "Triple-eye eff"
 
 It is both: 
 
-1. A set of APIs (Application Programming Interfaces) defined by specifications; these specifications dictate how digital cultural objects are to be provided and received 
+1. A set of open standards for delivering high-quality, attributed digital objects online; these specifications dictate how digital cultural objects are to be provided and received 
 
 2. A community that develops and implements these specifications
 
@@ -27,6 +31,11 @@ IIIF aims to *standardize* how digital images are delivered and viewed.
 The specifications support interoperability yet allow for flexibility and variety in the description of the object via metadata.
 
 Each participating institution has control over how they describe things in their own collections, but they make the images available in a consistent way.
+<hr>
+
+{: .note }
+Learn more about IIIF on the [consortium's website](https://iiif.io/){:target="_blank"} 
+<hr>
 
 ## What is a manifest?
 
@@ -37,6 +46,7 @@ It is written in a string of text in a format called JSON (pronounced *jay-SOHN*
 JSON is a file format that uses human-readable text to store and transmit data objects.
 
 Today we will be working with IIIF Manifest endpoints, the *links* to the manifests. 
+<hr>
 
 ## A quick peek at some code
 

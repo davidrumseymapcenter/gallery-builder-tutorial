@@ -4,7 +4,7 @@ title: For Use in App
 parent: Saving and Sharing
 nav_order: 1
 ---
-# Saving and Sharing Collections 
+# Saving and Sharing 
 
 Save your collection for use in this web app and exchange files with collaborators
 
@@ -15,6 +15,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - A file will be saved to your desktop with a name like “GALLERYNAME-gallery.json”. 
 
 - The suffix “-gallery” indicates a file that can be read by the Gallery Builder web app. 
+<hr>
 
 ## Share via Google Drive
 
@@ -27,6 +28,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - Open the [Gallery Builder](https://davidrumseymapcenter.github.io/set-builder){:target="_blank"} in a new browser window 
 
 - Under the heading "LOAD GALLERY" click the Choose File button. Navigate to the file you just downloaded and open it
+<hr>
 
 ## Versioning and Collaboration
 
@@ -34,20 +36,21 @@ Save your collection for use in this web app and exchange files with collaborato
 
 - When you are happy with your work, click in the field with the gallery name in it and add your initials to the end of the name. 
 
-- Click Save File
+- Click Save File.
 
-- Upload your modified gallery to the shared drive
+- Upload your modified gallery to the shared drive.
 
-- Select a modified file -- maybe your own gallery was changed -- and download it
+- Select a modified file -- maybe your own gallery was changed -- and download it.
 
-- Open the modified file to view changes
+- Open the modified file to view changes.
 
 {: .note-title }
 > About File Naming Conventions
 >
 > Use a file naming convention (coolmapskl01, coolmapskl02) to keep track of your own versions as well as versions created by collaborators.
+<hr>
 
-### Share via email
+## Share via email
 
 - Attach your JSON file to an email. Maybe send it to yourself so you can find it later.
 
@@ -55,6 +58,6 @@ Save your collection for use in this web app and exchange files with collaborato
 
 - Tell the recipient to download the file to their desktop and open it using the "Load Gallery" button in the app
 
-
+<hr>
 
 
