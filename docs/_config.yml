@@ -25,3 +25,10 @@ callouts:
   warning:
     title: Warning
     color: red
+
+footer_content: "Authored by the [David Rumsey Map Center](https://library.stanford.edu/libraries/david-rumsey-map-center){:target="_blank"}, 2026. | Built with Jekyll and Just the Docs"
+
+back_to_top: true
+back_to_top_text: "Back to top" 
+
+enable_copy_code_button: true

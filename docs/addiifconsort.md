@@ -7,11 +7,13 @@ nav_order: 5
 
 # Add Images to Your Gallery
 
-## Add a manifest from a repository of your choice
+## Choose your own adventure
+
+### Add a manifest from a repository of your choice
 
 - The IIIF Consortium maintains a list of participating institutions with links to screenshots that illustrate how to locate those manifests: [https://iiif.io/guides/finding_resources/](https://iiif.io/guides/finding_resources/){:target="_blank"}. 
 
-- Choose a repository from the list to investigate
+- Follow the link above and choose a repository from the list to investigate.
 
 - Follow the instructions at the link to locate a manifest and add an image to your gallery.
 
@@ -19,6 +21,7 @@ nav_order: 5
 If time permits, try adding items from additional repositories.
 
 {: .note}
-> *The Gallery Builder tool does not yet perfectly ingest manifests from all institutions! 
+> *The Gallery Builder tool does not yet perfectly ingest manifests from all institutions!* 
 >
-> Please email kllarsen@stanford.edu with requests to add compatibility for a particular manifest format, or add an issue to our repository: <https://github.com/davidrumseymapcenter/set-builder>{:target="_blank"}*
+> *Please email kllarsen@stanford.edu with requests to add compatibility for a particular manifest format, or add an issue to our repository: <https://github.com/davidrumseymapcenter/set-builder>{:target="_blank"}*
+<hr>

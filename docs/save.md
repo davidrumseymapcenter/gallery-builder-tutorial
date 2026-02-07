@@ -7,6 +7,8 @@ nav_order: 3
 
 # Save your work
 
+In the review of the interface we mentioned that the galleries can be saved as two different kinds of files. For this part of the workshop, we are saving in a format that can be reopened in this webapp.
+
 ## Name your collection
 
 - Choose a title for your gallery and type it in the field that says "Enter gallery name".
@@ -16,7 +18,7 @@ nav_order: 3
 
 ## Save to your download directory
 
-- Click the Save Gallery button.
+- Click the Save File button.
 
 - Navigate to your downloads folder (this may be your desktop) and find the file you just saved. It will have the title you chose with the suffix "-gallery.json".
 <hr>

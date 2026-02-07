@@ -8,7 +8,7 @@ nav_order: 5
 
 The Gallery Builder is able to generate two file types.
 
-One kind can be reopened in this webapp, and the other can be ingested by IIIF viewers like [Mirador](https://projectmirador.org/){:target="_blank"} or [Universal Viewer](https://universalviewer.io/){.target="_blank"}. 
+One kind can be reopened in this webapp, and the other can be ingested by IIIF viewers like [Mirador](https://projectmirador.org/){:target="_blank"} or [Universal Viewer](https://universalviewer.io/){:target="_blank"}. 
 
 Both files are JSON files but they have different structures.
 

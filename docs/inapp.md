@@ -6,28 +6,29 @@ nav_order: 1
 ---
 # Saving and Sharing 
 
-Save your collection for use in this web app and exchange files with collaborators
+Save your collection for use in this web app and exchange files with collaborators.
+<hr>
 
 ## Save Gallery File
 
 - Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
-- A file will be saved to your desktop with a name like “GALLERYNAME-gallery.json”. 
+- A file will be saved to your desktop with a name like coolmaps-gallery.json”. 
 
-- The suffix “-gallery” indicates a file that can be read by the Gallery Builder web app. 
+- The suffix “-gallery.json” indicates a file that can be read by the Gallery Builder web app. 
 <hr>
 
 ## Share via Google Drive
 
-- Access the [shared drive](https://drive.google.com/drive/folders/18hpn5Mntns-cf38rpj5CHfyaTS0BzlXu?usp=sharing) for this workshop
+- Access the [shared drive](https://drive.google.com/drive/folders/18hpn5Mntns-cf38rpj5CHfyaTS0BzlXu?usp=sharing) for this workshop.
 
-- Upload your gallery file to the drive
+- Upload your gallery file to the drive.
 
-- After others in the workshop have added their files, select one and download it to your computer
+- After others in the workshop have added their files, select one and download it to your computer.
 
-- Open the [Gallery Builder](https://davidrumseymapcenter.github.io/set-builder){:target="_blank"} in a new browser window 
+- Open the [Gallery Builder](https://davidrumseymapcenter.github.io/set-builder){:target="_blank"} in a new browser window. 
 
-- Under the heading "LOAD GALLERY" click the Choose File button. Navigate to the file you just downloaded and open it
+- Under the heading "LOAD GALLERY" click the Choose File button. Navigate to the file you just downloaded and open it.
 <hr>
 
 ## Versioning and Collaboration
@@ -40,9 +41,9 @@ Save your collection for use in this web app and exchange files with collaborato
 
 - Upload your modified gallery to the shared drive.
 
-- Select a modified file -- maybe your own gallery was changed -- and download it.
+- Select a modified file -- maybe your own gallery was changed? -- and download it.
 
-- Open the modified file to view changes.
+- Open the modified file in the gallery builder to view changes.
 
 {: .note-title }
 > About File Naming Conventions
@@ -56,7 +57,7 @@ Save your collection for use in this web app and exchange files with collaborato
 
 - In the body of the email, paste the link to the webapp: <https://davidrumseymapcenter.github.io/set-builder/>{:target="_blank"}
 
-- Tell the recipient to download the file to their desktop and open it using the "Load Gallery" button in the app
+- Tell the recipient to download the file to their desktop and open it using the "Load Gallery" function in the app.
 
 <hr>
 

@@ -8,7 +8,7 @@ nav_order: 4
 # Add Images to Your Gallery
 
 ## Add a manifest from the Library of Congress
-The [Library of Congress](https://www.loc.gov/){:target="_blank"} is essentially the US national library. It also contains millions of holdings. Many but not all of their item images are available through IIIF.   
+The [Library of Congress](https://www.loc.gov/){:target="_blank"} is the de facto US national library. It contains millions of holdings, and many -- but not all -- of their item images are available through IIIF.   
 
 - Go to the Library of Congress' [Maps collection](https://www.loc.gov/maps/?sb=shelf-id){:target="_blank"}
 
