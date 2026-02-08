@@ -15,13 +15,13 @@ In this step you will put the IIIF-compliant version of your gallery into a Gist
 ## :link: Create a Sharable Link with GitHub Gist 
 Same as before, but this time use the file that ends with "-manifest.json".
 
-- Sign in (or skip for an anonymous gist)
+- Create a new Gist by clicking the "+" in the upper right corner.
 
-- Drag and drop your JSON file into the text box, or paste its contents
+- In the new Gist, drag and drop your JSON file ending with -manifest.json into the text box, or paste in its contents
 
 - In "Filename including extension" field, give it a descriptive name ending with -manifest.json
 
-- We are using "-manifest" to keep straight which files we have made that will work in the Gallery Builder and which ones will work in IIIF Viewers. You can leave it out or choose another method for distinguishing link types for yourself.
+- *We are using "-manifest" to keep straight which files we have made that will work in the Gallery Builder and which ones will work in IIIF Viewers. You can leave it out or choose another method for distinguishing link types for yourself.*
 
 - Optionally add a description
 

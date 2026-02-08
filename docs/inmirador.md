@@ -13,13 +13,13 @@ The Gallery Builder app breaks some IIIF rules in order to show individual pages
 But you can export IIIF-compliant files and open those in other viewers. 
 
 In the steps that follow you will compare the differences. 
-
+<hr>
 {: .note }
 📘 Learn more about [IIIF Viewers](https://iiif.io/get-started/iiif-viewers/) on the consortium website. 
 <hr>
 
 ## 💾 Save for use in IIIF Viewers
-- Name your gallery by typing a name in the field below “SAVE GALLERY” or use the same name.
+- Name your gallery by typing a name in the field below “SAVE GALLERY,” or use the same name.
 
 - This time, click on the **grey IIIF logo** in the lower right corner of the input window. 
 
