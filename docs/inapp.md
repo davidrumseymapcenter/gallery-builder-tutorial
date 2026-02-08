@@ -47,6 +47,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - Select a modified file -- maybe your own gallery was changed? -- and download it.
 
 - Open the modified file in the gallery builder to view changes.
+<hr>
 
 {: .note-title }
 >🔑 About File Naming Conventions

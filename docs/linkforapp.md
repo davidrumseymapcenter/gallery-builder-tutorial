@@ -6,8 +6,9 @@ nav_order: 4
 ---
 
 # Saving and Sharing
+<hr>
 
-## Build the deep link 
+## 🔨 Build the deep link 
 
 In Gist, with your gallery code visible in the page, 
 
@@ -26,6 +27,7 @@ Example:
 ```html
 https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubusercontent.com/kristinallarsen/dd25a0e3fb0535d10d81b327a0d45454/raw/3b479ead4429474900b817bdfe0579d53cefa935/Ink%2520and%2520Empire
 ```
+<hr>
 
 ## ⚡ Test and share your work
 

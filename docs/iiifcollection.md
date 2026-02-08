@@ -12,7 +12,7 @@ To open your gallery as a collection in a IIIF Viewer it must be hosted in the c
 In this step you will put the IIIF-compliant version of your gallery into a Gist and open it in Universal Viewer.
 <hr>
 
-## :link: Create a Sharable Link with GitHub Gist 
+## 🔗 Create a Sharable Link with GitHub Gist 
 Same as before, but this time use the file that ends with "-manifest.json".
 
 - Create a new Gist by clicking the "+" in the upper right corner.
@@ -27,19 +27,15 @@ Same as before, but this time use the file that ends with "-manifest.json".
 
 - Click "Create public gist" or "Create secret gist" to make it unlisted
 
-{: .highlight } 
-:shushing_face: Secret gists are fine! they can't be opened without the gallery builder link so there is no reason to make them public. 
-
 - Click the "Raw" button in the top-right corner
 
 - Copy the URL from your browser's address bar
-https://universalviewer.io/
 
 ## View your collection in Universal Viewer<hr>
 
 Open the Universal Viewer website: [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}
 
-- Scroll down until you see View a IIIF Manifest, then paste your link into the field and click "VIEW"
+- Scroll down until you see "View a IIIF Manifest", then paste your link into the field and click "VIEW"
 
 <hr>
 
@@ -55,11 +51,11 @@ Open the Universal Viewer website: [https://universalviewer.io/](https://univers
 
 <hr>
 
-## :zap: Share your work
+## ⚡ Share your work
 
 Paste your link into the doc below.
 
-- Try opening other people's links in the [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}.
+- Try copying and pasting other people's links into the [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}.
 
 <iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?embedded=true" width="800" height="600"></iframe>
 

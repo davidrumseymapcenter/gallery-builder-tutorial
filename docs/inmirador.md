@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Saving and Sharing
-title: For Use in Mirador
+title: For Use in IIIF Viewer
 nav_order: 2
 ---
 

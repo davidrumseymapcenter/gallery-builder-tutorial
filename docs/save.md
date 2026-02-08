@@ -25,7 +25,7 @@ In the review of the interface we mentioned that the galleries can be saved as t
 - Navigate to your downloads folder (this may be your desktop) and find the file you just saved. It will have the title you chose with the suffix "-gallery.json".
 <hr>
 
-## Make a place to save your files
+## (Optional) Make a place to save your files
 
 - Create a new folder on your computer, maybe in the Documents directory
 
