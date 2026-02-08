@@ -30,16 +30,19 @@ Same as before, but this time use the file that ends with "-manifest.json".
 - Click the "Raw" button in the top-right corner
 
 - Copy the URL from your browser's address bar
+<hr>
 
-## View your collection in Universal Viewer<hr>
+## 👀 View your collection in Universal Viewer
 
 Open the Universal Viewer website: [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}
 
-- Scroll down until you see "View a IIIF Manifest", then paste your link into the field and click "VIEW"
+- Scroll down until you see "View a IIIF Manifest"
+
+- Paste your link into the field and click "VIEW"
 
 <hr>
 
-## Some things to explore
+## 🕵️‍♀️ Some things to explore
 
 - Can you find the title of your gallery?
 
@@ -55,7 +58,7 @@ Open the Universal Viewer website: [https://universalviewer.io/](https://univers
 
 Paste your link into the doc below.
 
-- Try copying and pasting other people's links into the [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}.
+- Try copying and pasting other people's links into the [Universal Viewer](https://universalviewer.io/){:target="_blank"}.
 
 <iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?embedded=true" width="800" height="600"></iframe>
 

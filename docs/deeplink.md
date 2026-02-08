@@ -16,7 +16,7 @@ To share your gallery without moving the file to Drive or attaching it to email 
 
 - This is called a "deep link." To include your gallery in a deep link, it must be in the cloud somewhere -- you have to get it off your computer and into the internet. 
 
-- This is slightly complicated and requires a little more work to accomplish, but it is totally worth the effort.
+- This requires a little extra work to accomplish, but it is totally worth the effort.
 <hr>
 
 ## 🤓 Working with Github "Gists"
@@ -45,7 +45,7 @@ You can create Gists without an account. These are called "anonymous gists". The
 
 - Open the browser window where Gist is open and drag and drop your JSON file into the text box.  You can also copy/paste its contents into the box. 
 
-- In the "Filename including extension" field, give the Gist a descriptive name (e.g., "colonial-maps.json").
+- In the "Filename including extension" field, give the Gist a descriptive name.
 
 - Optionally add a description.
 
