@@ -4,6 +4,8 @@ title: Tutorial Home
 nav_order: 1
 ---
 
+<img src="images/ldw-2026-design-purple-new-logo-8.png" alt="Logo for Love Data Week 2026" width="350">
+
 # About
 
 This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
