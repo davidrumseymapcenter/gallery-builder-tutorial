@@ -5,17 +5,32 @@ parent: Get Started
 nav_order: 3
 ---
 
-# Save your work to your computer
+# Save your work
+
+In the review of the interface we mentioned that the galleries can be saved as two different kinds of files. For this part of the workshop, we are saving in the format that can be reopened in this webapp.
+
+<hr>
 
 ## Name your collection
 
 - Choose a title for your gallery and type it in the field that says "Enter gallery name".
   
->{: .highlight }
-If you forget to choose a name the tool will autogenerate one with today's date
+- If you forget to choose a name the tool will autogenerate one with today's date.
+<hr>
 
 ## Save to your download directory
 
-- Click the Save Gallery button
+- Click the Save File button.
 
-- Navigate to your downloads folder (this may be your desktop) and find the file you just saved. It will have the title you chose with the suffix "-gallery.json"
+- Navigate to your downloads folder (this may be your desktop) and find the file you just saved. It will have the title you chose with the suffix "-gallery.json".
+<hr>
+
+## (Optional) Make a place to save your files
+
+- Create a new folder on your computer, maybe in the Documents directory
+
+- Name it "IIIF Image Gallery Files" or something else you will remember
+
+- Move your gallery file to the new folder
+<hr>
+

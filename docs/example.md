@@ -9,19 +9,18 @@ nav_order: 3
 
 Explore the gallery below and familiarize yourself with the way it works. 
 <hr>
-
 Here are some things to try:
+
+- Open and close the input panel
+
+- Open and close the viewing panel
 
 - Click thumbnails to zoom into images
 
 - Click the View Item and View Manifest links at the bottom of the cards to see where they lead
 
-- Open and close the input panel
-
-- Open and close the viewing pane
-
 - Experiment with rearranging and deleting items 
-
+<hr>
 [For the best view, open gallery in new page](https://davidrumseymapcenter.github.io/set-builder/index.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json){:target="_blank"}
 
 <iframe src="https://davidrumseymapcenter.github.io/set-builder/index.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/Maps%20of%20the%20American%20West-gallery.json" title="Example of the IIIF Gallery Builder" width=1200px height=800px></iframe>

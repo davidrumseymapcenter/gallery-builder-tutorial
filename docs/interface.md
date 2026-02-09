@@ -6,20 +6,20 @@ nav_order: 2
 ---
 
 # Understand the Interface
+{: .no_toc }
 
 In this section you will familiarize yourself with the three main parts of the app:
-- the [input panel](interface.html#input-panel)
-- the [item cards](interface.html#item-cards)
-- the [viewing pane](interface.html#viewing-pane)
 
+1. toc
+{:toc}
 
-<img src="images/amwest.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
+<img src="images/amwestlabeled.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
 ## Input Panel
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
 
-Once saved, the title of your gallery will appear at the top of the window. 
+Once saved, the title of your gallery will appear in blue text at the top of the window. 
 
 <img src="images/input.png" alt="Screenshot of the gallery builder input panel" width="400">
 
@@ -30,16 +30,19 @@ Also at the top there are three control links:
 - **HIDE VIEWER:** hides or reveals the zoom panel on the right side of the browser window
 
 ### ADD IIIF MANIFESTS
+{: .no_toc }
 
 Field for adding manifests, labeled *"Enter IIIF Manifest URLs (comma-separated)"*
 
 ### LOAD GALLERY
+{: .no_toc }
 
 You can load a previously saved gallery in two ways:
 1. Use the Choose File button to upload a file from your computer
 2. Paste a link to a file hosted in the cloud in the indicated field and click Load from URL
 
 ### SAVE GALLERY
+{: .no_toc }
 
 Field to enter title, labelled *"Enter gallery name"*
 
@@ -57,10 +60,12 @@ Each item or page you add to the gallery will have its own card.
 <img src="images/card.png" alt="Screenshot of a gallery builder item card" width="450">
 
 ### Image
+{: .no_toc }
 
 - **Item thumbnail:** click this to open the image in the viewing pane
 
 ### Metadata
+{: .no_toc }
 
 - **Title:** note that long titles are truncated after four lines
 - **Author:** if source metadata lists multiple creator roles the card will only show the first one
@@ -73,6 +78,7 @@ Note that this is just a summary and metadata handling varies by institution.
 It is a good idea to view the item at its source to see the full metadata record.
 
 ### Links
+{: .no_toc }
 
 - **VIEW ITEM:** opens the record for the item at its source repository
 - **VIEW MANIFEST:** opens the JSON file containing the manifest information in your browser
