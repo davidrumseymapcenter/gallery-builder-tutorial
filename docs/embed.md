@@ -4,7 +4,7 @@ title: Embed Gallery in a webpage
 nav_order: 6
 ---
 
-# Embed a Gallery in a webpage
+# Embed a Gallery in a Webpage
 {: .no_toc }
 
 1. TOC
@@ -18,7 +18,7 @@ This is also a fairly straightforward way for to include selected items into a C
 ## About iframes
 The term "iframe" is short for "inline frame" and is an html element that lets you nest one HTML document inside of another.
 
-{: .hightlight}
+{: .highlight }
 Learn more about iframes at the W3 website:
 [https://www.w3schools.com/tags/tag_iframe.ASP](https://www.w3schools.com/tags/tag_iframe.ASP)
 
@@ -49,7 +49,7 @@ In an html or markdown site, just paste the iframe in where you would like it to
 
 While editing a Page in Canvas, look under the text box for the </> symbol. Click this to display the html. Paste your iframe code into the right spot, then shift back to html by clicking </> again, save your changes, and admire your handiwork.
 
-{: .hightlight}
+{: .highlight }
 Learn more about embedding content in Canvas on the website "[How to Canvas](https://www.howtocanvas.com/create-amazing-pages-in-canvas/embedding-content)" by Sean Nufer.
 
 <hr>
