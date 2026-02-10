@@ -12,7 +12,9 @@ Save your collection for use in this web app and exchange files with collaborato
 {:toc}
 <hr>
 
-## 💾 Save Gallery File
+<img src="images/grandpa.png" alt="Grandpa Simpson meme with text that says SO I SAVED MY FILES ON MY OWN COMPUTER< WHICH WAS THE STYLE AT THE TIME" width="250">
+
+## Save Gallery File
 
 - Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
@@ -21,7 +23,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - The suffix “-gallery.json” indicates a file that can be read by the Gallery Builder web app. 
 <hr>
 
-## ➡️ Share via Google Drive
+## Share via Google Drive
 
 - Access the [shared drive](https://drive.google.com/drive/folders/18hpn5Mntns-cf38rpj5CHfyaTS0BzlXu?usp=sharing){:target="_blank"} for this workshop.
 
@@ -34,7 +36,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - Under the heading "LOAD GALLERY" click the Choose File button. Navigate to the file you just downloaded and open it.
 <hr>
 
-## 🔄 Versioning and Collaboration
+## Versioning and Collaboration
 
 - Spend a few minutes modifying the gallery by adding and/or removing items and rearranging things.
 
@@ -55,7 +57,7 @@ Save your collection for use in this web app and exchange files with collaborato
 > Use a file naming convention (coolmapskl01, coolmapskl02) to keep track of your own versions as well as versions created by collaborators.
 <hr>
 
-## 	✉️ Share via email
+## 	Share via email
 
 - Attach your JSON file to an email. Maybe send it to yourself so you can find it later.
 
