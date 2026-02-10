@@ -16,7 +16,7 @@ Save your collection for use in this web app and exchange files with collaborato
 
 ## Save Gallery File
 
-- Save your gallery by typing a name in the field below “SAVE GALLERY” and click “Save File".
+- Save your gallery to your computer by typing a name in the field below “SAVE GALLERY” and click “Save File".
 
 - A file will be saved to your desktop with a name like "coolmaps-gallery.json”. 
 
