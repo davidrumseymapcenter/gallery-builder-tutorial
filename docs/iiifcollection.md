@@ -12,7 +12,7 @@ To open your gallery as a collection in a IIIF Viewer it must be hosted in the c
 In this step you will put the IIIF-compliant version of your gallery into a Gist and open it in Universal Viewer.
 <hr>
 
-## 🔗 Create a Sharable Link with GitHub Gist 
+## Create a Sharable Link with GitHub Gist 
 Same as before, but this time use the file that ends with "-manifest.json".
 
 - Create a new Gist by clicking the "+" in the upper right corner.
@@ -32,7 +32,7 @@ Same as before, but this time use the file that ends with "-manifest.json".
 - Copy the URL from your browser's address bar
 <hr>
 
-## 👀 View your collection in Universal Viewer
+## View your collection in Universal Viewer
 
 Open the Universal Viewer website: [https://universalviewer.io/](https://universalviewer.io/){:target="_blank"}
 
@@ -42,7 +42,7 @@ Open the Universal Viewer website: [https://universalviewer.io/](https://univers
 
 <hr>
 
-## 🕵️‍♀️ Some things to explore
+## Some things to explore
 
 - Can you find the title of your gallery?
 
@@ -60,6 +60,5 @@ Paste your link into the doc below.
 
 - Try copying and pasting other people's links into the [Universal Viewer](https://universalviewer.io/){:target="_blank"}.
 
-<iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?embedded=true" width="800" height="600"></iframe>
-
+<iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?rm=minimal" width="800" height="600"></iframe>
 

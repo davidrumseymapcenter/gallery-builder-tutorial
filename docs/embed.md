@@ -28,7 +28,7 @@ Remember [this step](https://davidrumseymapcenter.github.io/gallery-builder-tuto
 
 In that section you put your code in the cloud with Gist, got a link to the code, and put that link inside of the gallery builder tool link so that the recipient could click and open a both in one shot.
 
-To make an iframe, you will take that link -- the one that contains the link to the Gist -- and put it inside yet another container.
+To make an iframe, you will take that link -- the one that contains the link to the Gist -- and put it inside *yet another container*.
 
 Here is the basic structure:
 

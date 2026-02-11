@@ -10,6 +10,8 @@ nav_order: 1
 
 This tutorial covers how to build an image gallery set with the IIIF Gallery Builder web app using images from Searchworks and DavidRumsey.com.
 
+It was developed for Love Data Week 2026 and presented in the David Rumsey Map Center on February 11.
+
 ## Objectives
 
 In this workshop participants will create simple, no-code digital galleries of images of maps and other cultural heritage objects for use in research and teaching. Drawing from disparate sources including Stanford's Searchworks catalog, DavidRumsey.com, the Library of Congress website, and the Internet Archive, participants will assemble custom sets of images via their IIIF manifests and a webapp. 

@@ -2,7 +2,7 @@
 layout: minimal
 title: Example Gallery
 parent: Tutorial Home
-nav_order: 3
+nav_order: 4
 ---
 
 # Things to Try
@@ -27,6 +27,6 @@ Here are some things to try:
 
 <hr>
 {: .note }
-*This tutorial does not cover the use of Allmaps Editor -- please reach out for help if you are interested in learning how to use it to georeference map images. Otherwise you can ignore it for now!*
+*This tutorial does not cover the use of Allmaps Editor. [Learn more about Allmaps on their website](https://allmaps.org/){:target="_blank} or try this tutorial by the [Leventhal Map Center](https://www.leventhalmap.org/projects/digital-projects/georeferencing/){:target="_blank"}. Otherwise you can ignore it for now!*
 
 [Return to tutorial](https://davidrumseymapcenter.github.io/gallery-builder-tutorial/)

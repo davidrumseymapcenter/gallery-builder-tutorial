@@ -8,7 +8,7 @@ nav_order: 4
 # Saving and Sharing
 <hr>
 
-## 🔨 Build the deep link 
+## Build the deep link 
 
 In Gist, with your gallery code visible in the page, 
 
@@ -29,7 +29,7 @@ https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubuser
 ```
 <hr>
 
-## ⚡ Test and share your work
+## Test and share your work
 
 Paste the link you made in the last step into the doc below.
 
@@ -37,6 +37,6 @@ Paste the link you made in the last step into the doc below.
 
 2. Try opening other people's links.
 
-<iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?embedded=true" width="800" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/17KlJ8MjEnF-qfIc2yxGw6py7XIWMFh68mzPeiteO1OQ/edit?rm=minimal" width="800" height="600"></iframe>
 
 <hr>

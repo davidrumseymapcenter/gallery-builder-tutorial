@@ -19,7 +19,7 @@ To share your gallery without moving the file to Drive or attaching it to email 
 - This requires a little extra work to accomplish, but it is totally worth the effort.
 <hr>
 
-## 🤓 Working with Github "Gists"
+## Working with Github "Gists"
 
 - [**Gist**](https://gist.github.com){:target="_blank"} is a website operated by GitHub that allows users to save code snippets online without creating full-blown respositories.
 
@@ -27,7 +27,7 @@ To share your gallery without moving the file to Drive or attaching it to email 
 
 <hr>
 
-### 🎉 Create a Gist account
+### Create a Gist account
 
 - Go to [https://gist.github.com](https://gist.github.com){:target="_blank"}
 
@@ -36,7 +36,7 @@ To share your gallery without moving the file to Drive or attaching it to email 
 - If not, create a new account.
 
 {: .warning }
-You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted. You have been warned 😀
+You can create Gists without an account. These are called "anonymous gists". The drawback is that once you make an anonymous gist there is no way for you to manage it, and it can't be changed or deleted.
 
 <hr>
 
