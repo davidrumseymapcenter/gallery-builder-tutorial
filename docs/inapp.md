@@ -19,6 +19,7 @@ Save your collection for use in this web app and exchange files with collaborato
 - A file will be saved to your desktop with a name like "coolmaps-gallery.json”. 
 
 - The suffix “-gallery.json” indicates a file that can be read by the Gallery Builder web app. 
+
 <img src="images/grandpa.png" alt="Grandpa Simpson meme with text that says SO I SAVED MY FILES ON MY OWN COMPUTER< WHICH WAS THE STYLE AT THE TIME" width="300">
 
 <hr>
