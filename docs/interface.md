@@ -1,8 +1,8 @@
 ---
 layout: default
-title: The Interface
+title: The interface
 parent: Tutorial Home
-nav_order: 2
+nav_order: 3
 ---
 
 # Understand the Interface
@@ -15,6 +15,7 @@ In this section you will familiarize yourself with the three main parts of the a
 
 <img src="images/amwestlabeled.png" alt="Screenshot of the gallery builder showing a collection entitled Maps of the American West" width="1000">
 <hr>
+
 ## Input Panel
 
 This is the part of the tool where you add images, load existing galleries, and save your work. 
