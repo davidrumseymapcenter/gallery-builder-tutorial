@@ -29,7 +29,7 @@ https://davidrumseymapcenter.github.io/set-builder/?file=https://gist.githubuser
 ```
 <hr>
 
-## Test and share your work
+## ⚡ Test and share your work
 
 Paste the link you made in the last step into the doc below.
 

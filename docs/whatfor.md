@@ -12,7 +12,7 @@ nav_order: 2
 
 ## What's it for?
 {: .no_toc }
-Here are a few ideas for how Image Galleries can be used. You may have additional ideas!
+Here are a few ideas for how Image Galleries can be used. You may find additional use cases.
 
 1. toc
 {:toc}
@@ -20,10 +20,10 @@ Here are a few ideas for how Image Galleries can be used. You may have additiona
 
 ### Working with digital primary source sets
 
-<img src="images/promarysources.png" alt="A room featuring large wallscreens showing digital images of maps with tables in the center displaying archival atlases and paper maps" width="600">
+<img src="images/primarysources.png" alt="A room featuring large wallscreens showing digital images of maps with tables in the center displaying archival atlases and paper maps" width="600">
 
 
-In the David Rumsey Map Center, we use this tool to create and share sets of primary source material (mostly maps!) with students and faculty who visit the center with classes. 
+In the David Rumsey Map Center, we use this tool to create and share sets of primary source material (mostly maps) with students and faculty who visit the center with classes. 
 
 It is also part of our internal collaborative process for making the selections that go into those sets.
 
@@ -65,5 +65,5 @@ This 1852 book, from the Getty Collection and shared on the Internet Archive:
 
 Becomes this [gallery of illustrations](https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/papillons.json){:target="_blank"} from that book.
 
-<a href="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/papillons.json" target="_blank"><img src="images/papillonsgallery.png" alt="Screenshot of a gallery of images of anthropomorphised insects in a broswer window with an enlargement of one in a pane on the right side of the window." width="600"> </a>
+<a href="https://davidrumseymapcenter.github.io/set-builder/viewer.html?file=https://raw.githubusercontent.com/davidrumseymapcenter/set-builder/refs/heads/main/manifests/papillons.json" target="_blank"><img src="images/papillongallery.png" alt="Screenshot of a gallery of images of anthropomorphised insects in a broswer window with an enlargement of one in a pane on the right side of the window." width="600"> </a>
 <hr>

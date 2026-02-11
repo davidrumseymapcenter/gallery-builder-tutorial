@@ -20,4 +20,4 @@ The manifest is a link that starts with **https://purl.stanford.edu/** and ends 
 - Right click on the clink and click "Copy Link Address"
 
 {: .new }
-***Add 2 or more additional items from Searchworks following this same workflow.***
+***Add 1 or more additional items from Searchworks following this same workflow.***

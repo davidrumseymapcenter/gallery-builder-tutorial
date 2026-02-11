@@ -36,5 +36,5 @@ In the above example it’s *mma_the_celestial_map_northern_hemisphere_358366*
 - Copy your constructed link and navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 
 {: .new }
-***Add 2 or more additional items from the Internet Archive following this same workflow.***
+***Add 1 or more additional items from the Internet Archive following this same workflow.***
 

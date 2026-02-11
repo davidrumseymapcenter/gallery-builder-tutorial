@@ -20,5 +20,5 @@ nav_order: 2
 - Navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 
 {: .new}
-***Add 2 or more additional items from DavidRumsey.com following this same workflow.***
+***Add 1 or more additional items from DavidRumsey.com following this same workflow.***
 <hr>

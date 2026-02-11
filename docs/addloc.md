@@ -21,6 +21,6 @@ The [Library of Congress](https://www.loc.gov/){:target="_blank"} is the de fact
 - Navigate back to the IIIF Gallery Builder. Paste the the manifest in the top field and click “Add Manifest(s)” 
 
 {: .new}
-***Add 2 or more additional items from the Library of Congress following this same workflow.***
+***Add 1 or more additional items from the Library of Congress following this same workflow.***
 
 <hr>
